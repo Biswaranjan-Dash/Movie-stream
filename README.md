@@ -1,7 +1,8 @@
-# Build and Deploy movie app with React & Redux | Mobile Responsive
+To Run This :
+1. clone this repo 
+2. run `npm install`
+3. run `npm start`
+4. connect to a vpn service for this to work
+5. open your browser and go to `http://localhost:3000/`
 
-![Alt text](thumnail.png?raw=true "Title")
 
-REACT_APP_ACCESS_TOKEN = < The Movie Database Access Token >
-
-Image : https://drive.google.com/drive/folders/17fx2Gwpq3VzzYd0ToZI9bK1go2hVKXfr?usp=sharing
